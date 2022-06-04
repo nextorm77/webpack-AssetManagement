@@ -63,3 +63,13 @@ $ npm i
 ### entry point
 
 $ dist/index.html
+
+## Loading Data(Customize parser of JSON modules)
+
+### node_modules 생성
+
+$ npm i
+
+### entry point
+
+$ dist/index.html
