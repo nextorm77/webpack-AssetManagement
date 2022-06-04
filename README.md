@@ -33,3 +33,19 @@ $ npm i
 ### entry point
 
 $ dist/index.html
+
+## Loading Images
+
+### 스테이징시 유의점
+
+$ git add . => 프로젝트 루트에서 명령 실행
+
+명령 실행하는 위치와 하위 디텍토리의 파일들만 스테이징 처리
+
+### node_modules 생성
+
+$ npm i
+
+### entry point
+
+$ dist/index.html
