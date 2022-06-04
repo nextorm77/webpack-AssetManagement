@@ -49,3 +49,17 @@ $ npm i
 ### entry point
 
 $ dist/index.html
+
+## Loading Fonts
+
+폰트 용량이 webpack 허용 한도 초과하여 실습X
+
+## Loading Data
+
+### node_modules 생성
+
+$ npm i
+
+### entry point
+
+$ dist/index.html
