@@ -23,3 +23,13 @@ $ npm i
 ### entry point
 
 $ dist/index.html
+
+## Loading CSS
+
+### node_modules 생성
+
+$ npm i
+
+### entry point
+
+$ dist/index.html
